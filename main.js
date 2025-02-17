@@ -71,22 +71,11 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3411.7677635648342!2d-59.9888762!3d-31.227162900000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b49af85305dc59%3A0x7acc4cf0a71e6467!2sParroquia%20%22Nuestra%20Sra.%20de%20la%20Merced%22%20Hernandarias!5e0!3m2!1ses-419!2sar!4v1733837107007!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3413.4556796507495!2d-60.14880772440202!3d-31.180376374371527!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b495b495df8a7b%3A0x35b154f2c5cc49cc!2sHotel%20cruce%20cayasta!5e0!3m2!1ses-419!2sar!4v1739749468847!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
     })
   });
   
-  function exito(){
-    Swal.fire({
-        title: '<strong>VER LA UBICACION<u></u></strong>',
-        icon: 'success',
-        html:
-          'INGRESÁ' +
-          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3411.3692395356925!2d-59.9922524!3d-31.2382002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b49aef84cb7fd7%3A0x4a07eb190d744b0e!2sComplejo%20La%20Quinta%20Land!5e0!3m2!1ses-419!2sar!4v1733837020193!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
-          'Podes ampliar el mapa',
-          
-          
-      })
-}
+
